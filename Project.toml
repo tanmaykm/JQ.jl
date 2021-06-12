@@ -1,0 +1,19 @@
+name = "JQ"
+uuid = "8cdd95e2-f406-42a8-a750-e8b0fe427919"
+authors = ["Tanmay Mohapatra <tanmaykm@gmail.com>"]
+version = "0.1.0"
+keywords = ["jq"]
+license = "MIT"
+
+[deps]
+jq_jll = "f8f80db2-c0ba-59e9-a5c3-38d72e3c5ac2"
+
+[compat]
+julia = "1.3"
+jq_jll = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
