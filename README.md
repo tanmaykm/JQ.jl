@@ -1,7 +1,7 @@
 # JQ.jl
 
-[![Build Status](https://github.com/tanmaykm/JQ.jl/workflows/CI/badge.svg)](https://github.com/tanmaykm/JQ.jl/actions?query=workflow%3ACI+branch%3Amaster)
-[![codecov.io](http://codecov.io/github/tanmaykm/JQ.jl/coverage.svg?branch=master)](http://codecov.io/github/tanmaykm/JQ.jl?branch=master)
+[![Build Status](https://github.com/tanmaykm/JQ.jl/workflows/CI/badge.svg)](https://github.com/tanmaykm/JQ.jl/actions?query=workflow%3ACI+branch%3Amain)
+[![codecov.io](http://codecov.io/github/tanmaykm/JQ.jl/coverage.svg?branch=main)](http://codecov.io/github/tanmaykm/JQ.jl?branch=main)
 
 > "jq is like sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text".
 
